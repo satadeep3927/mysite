@@ -69,7 +69,7 @@ nav{
 				color:#0fffbb;
 				padding: 8px 20px;				
 				}		
-			a:active {
+			nav ul li a:active {
 				 background-color:#0fffbb;
 				 color:black;
 				 box-shadow:2px 2px 20px 20px #0fffbb,-2px -2px 20px 20px #0fffbb;
