@@ -169,7 +169,7 @@ nav{
                margin: 5px auto;
 	      }
 
-#articl a:active{
+#articl p a:active{
     text-decoration:underline;
     background-color:none;
     color: red;
