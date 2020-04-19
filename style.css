@@ -85,7 +85,7 @@ nav{
 	     header{
 		     width:100%;
 		      height:80vh;
-		     background-image: url("/storage/emulated/0/Download/www.mysite.com/background2.jpg");
+		     background-image: url("background2.jpg");
 		     background-position:center;
 		     background-size:cover;
 		     overflow-x:hidden;
