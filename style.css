@@ -174,7 +174,12 @@ nav{
 				max-width: 90%;
 			   background-color: white;
 			   margin :10px auto;
-			}	
+			}
+#articl a:active{
+    text-decoration:underline;
+    background-color:none;
+    color: red;
+}	
 		    #next img{
     	   	      width:90%; 
                 height: 30%; 
@@ -209,6 +214,8 @@ nav{
                margin: 5px auto;
            
 		      }
+ 
+
 		
 		footer{
 		        height:300px;
